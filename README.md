@@ -1,2 +1,0 @@
-# techillus.com
-Begin app
